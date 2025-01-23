@@ -1,5 +1,4 @@
 # mm2
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,7 +15,5 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Blue Page!</h1>
-    <p>This is a simple webpage with a blue background.</p>
 </body>
 </html>
